@@ -8,9 +8,9 @@ int main()
 	yourCar.whereAmI();
 	yourCar.gear = 5;
 	yourCar.display();
-	yourCar.changeGear(3);
+	yourCar.changeGear();
 	yourCar.display();
-
+	
 	SportsCar myCar;
 	myCar.setTurbo(true);
 	myCar.speedUp();

@@ -26,7 +26,6 @@ public:
 	}
 };
 
-
 class Polynomial {
 	int degree;				// 다항식의 최고 차수
 	float coef[MAX_DEGREE];	// 각 항에 대한 계수 (Coefficient)
